@@ -74,3 +74,8 @@ twitter:
   username: siteleaf
 logo: "/assets/logo.svg"
 future: true
+
+algolia:
+   application_id: MXM0JWJNIW
+   index_name: jekyll_siteleaf
+   search_only_api_key: 12b7c60f33a700558528c3dde43b47f1
